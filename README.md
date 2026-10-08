@@ -225,4 +225,4 @@ Screaming Frog SEO Spider is available as a complete free version with all featu
 Unlock your website's potential today by downloading Screaming Frog SEO Spider and take your SEO strategy to the next level!
 
 ---
-**Last updated:** 2026-10-08 16:18:15 UTC
+**Last updated:** 2026-10-08 21:56:28 UTC
